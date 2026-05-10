@@ -76,4 +76,6 @@ Thumbs.db
 *.publishsettings
 *.azureconfig
 
+# -------------------------
 example.server.gitignore
+example.client.gitignore
